@@ -37,3 +37,8 @@ Lets make a list again
     2. go for it
 * push
 * observe
+
+------
+Link to [Google](https:\\google.com)
+
+Link to the other page [Second](Second.md)
