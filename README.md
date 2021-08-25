@@ -16,3 +16,24 @@ def fn(x):
     y = x+1
     return y
 ```
+Lets make a list
+* VS Code
+* save
+* commit
+* push
+* observe
+
+Make a second list
+3. red
+2. blue
+1. cyan
+
+Lets make a list again
+* VS Code
+* save
+* commit
+    2. good summary
+    2. good detailed
+    2. go for it
+* push
+* observe
