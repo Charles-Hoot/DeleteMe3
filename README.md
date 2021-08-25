@@ -24,7 +24,7 @@ Lets make a list
 * observe
 
 Make a second list
-3. red
+1. red
 2. blue
 1. cyan
 
@@ -32,7 +32,7 @@ Lets make a list again
 * VS Code
 * save
 * commit
-    2. good summary
+    1. good summary
     2. good detailed
     2. go for it
 * push
