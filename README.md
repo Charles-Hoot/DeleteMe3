@@ -39,6 +39,6 @@ Lets make a list again
 * observe
 
 ------
-Link to [Google](https:\\google.com)
+Link to [Google](https://www.google.com/)
 
 Link to the other page [Second](Second.md)
