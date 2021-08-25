@@ -10,3 +10,9 @@ even more text
 ######  This is smallest
 
 And now for a bold word **study** ***alot of the time***
+Example of code we have the variable `sum` in our method `addThem`.
+```
+def fn(x):
+    y = x+1
+    return y
+```
