@@ -44,3 +44,11 @@ Link to [Google](https://www.google.com/)
 Link to the other page [Second](Second.md)
 
 Show me the ![Evil killy](cat.jpg)
+
+This is a truth table
+| P | Q | P and Q |
+| --- | --- | ---: |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F |
