@@ -42,3 +42,5 @@ Lets make a list again
 Link to [Google](https://www.google.com/)
 
 Link to the other page [Second](Second.md)
+
+Show me the ![Evil killy](cat.jpg)
